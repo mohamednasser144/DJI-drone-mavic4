@@ -562,9 +562,9 @@ body {
   font-size: 70px;
   color: #333333;
 }
-.parent-reviews .left-side span {
+/* .parent-reviews .left-side span {
   margin:;
-}
+} */
 .parent-reviews .left-side span img {
   width: 30px;
 }
@@ -680,7 +680,7 @@ body {
   width: 60px;
   height: 60px;
   border-radius: 50%;
-  align-self:;
+  /* align-self: center; */
   margin-right: 20px;
 }
 .parent-reviews .right-side .Marcus-chen .name .stars2 img {
@@ -694,9 +694,9 @@ body {
   /* background-color: #ddd; */
 }
 
-.parent-reviews .right-side .Marcus-chen .head-name .name {
-  /* background-color: #9c9c9c; */
-}
+/* .parent-reviews .right-side .Marcus-chen .head-name .name {
+  background-color: #9c9c9c;
+} */
 
 .right-side .Verified-Purchase {
   text-align: right;
